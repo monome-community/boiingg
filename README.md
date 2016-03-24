@@ -1,6 +1,6 @@
 #boiingg
 
-!()[app-jr.mnm.boiingg.0.1.4.jpg]
+![](app-jr.mnm.boiingg.0.1.4.jpg)
 
 written by Jules (pixelmechanic)
 
